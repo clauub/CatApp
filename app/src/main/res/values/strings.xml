@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cat App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_cat_lover">Welcome Cat Lover</string>
+    <string name="search_for_your_breed">Search for your breed…</string>
+    <string name="search_breed_sorted_country">Search breed sorted by country…</string>
+    <string name="sort_by_country">Sort by country</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="image_cat">image_cat</string>
+    <string name="i_know_you_love_cats">I know you love cats</string>
+    <string name="description">Description</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_cat_breed_selected">No cat breed selected</string>
+</resources>
