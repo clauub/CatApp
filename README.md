@@ -1,5 +1,5 @@
 # CatApp
-A simple app with cat breeds using https://thecatapi.com/ 
+A simple app with cat breeds using https://thecatapi.com/ API
 
 **Some of the libraries used for this app were:**
 
